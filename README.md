@@ -8,20 +8,19 @@ Well, let's find out! In this project, you get to explore patterns and trends in
 
 Before starting this project, we recommend that you have completed:
 
-pandas Foundations
-Data Visualization with Seaborn
-The dataset used in this project is from The Nobel Foundation on Kaggle.
+1-pandas Foundations
+2-Data Visualization with Seaborn
 
 Project Tasks
 
-The most Nobel of Prizes
-So, who gets the Nobel Prize?
-USA dominance
-USA dominance, visualized
-What is the gender of a typical Nobel Prize winner?
-The first woman to win the Nobel Prize
-Repeat laureates
-How old are you when you get the prize?
-Age differences between prize categories
-Oldest and youngest winners
-You get a prize!
+1-The most Nobel of Prizes
+2-So, who gets the Nobel Prize?
+3-USA dominance
+4-USA dominance, visualized
+5-What is the gender of a typical Nobel Prize winner?
+6-The first woman to win the Nobel Prize
+7-Repeat laureates
+8-How old are you when you get the prize?
+9-Age differences between prize categories
+10-Oldest and youngest winners
+11-You get a prize!
